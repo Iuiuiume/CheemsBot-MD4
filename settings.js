@@ -43,7 +43,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync("./https://pbs.twimg.com/media/DRV2liLUEAAhIVv.jpg") //gif and video menu
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -54,11 +54,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['94740186750'] //ur owner number
+global.ownername = "brainless sofie" //ur owner name
+global.ytname = "me wnt a brain" //ur yt chanel name
+global.socialm = "donate a brain for sofie" //ur github or insta name
+global.location = "zoo" //ur location
 
 //bot bomdy 
 global.owner = ['94740186750']
@@ -70,16 +70,16 @@ global.botscript = 'uuu' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.author = "🦄Xeon" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./https://st1.bollywoodlife.com/wp-content/uploads/2021/05/BTS-Jimin.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./https://qph.cf2.quoracdn.net/main-qimg-8fb6650a4e84c663f669fb98947aa8a6-lq") //ur logo pic
+global.err4r = fs.readFileSync("./https://i.pinimg.com/originals/9a/de/c6/9adec6f39f20a75c877fea5fab53a398.jpg") //ur error pic
+global.thumb = fs.readFileSync("./https://vtv1.mediacdn.vn/thumb_w/650/2019/8/26/1566762390-img-20190826-004322-1566810126752174371034-crop-15668101586401072427780.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['1234'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
